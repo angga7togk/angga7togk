@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angga7togk
 - 👀 I’m interested in Famale
-- 🌱 I’m currently learning HTML, CSS, PHP, MYSQL & JAVASCRIPT :)
+- 🌱 I’m currently learning HTML, CSS, PHP, MYSQL, JAVA & JAVASCRIPT :)
 - 💞️ I’m looking to collaborate on Server Minecraft
 - 📫 How to reach me Email -
 - ✔  Please subscribe my Youtube Channel Angga7Togk_
