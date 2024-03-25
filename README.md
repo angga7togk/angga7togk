@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @angga7togk
-- 🌱 I can speak programming languages HTML, CSS, PHP, MYSQL, JAVA, KOTLIN, HTML, JS & framwork Laravel, Astrojs, CodeIgniter
+- 🌱 I can programming languages HTML, CSS, PHP, MYSQL, JAVA, KOTLIN, HTML, JS & framwork Laravel, Astrojs, CodeIgniter
 - 💞️ I’m looking to collaborate on Server Minecraft
 - 📫 How to reach me Email ...
 - ✔  Please subscribe my Youtube Channel Angga7Togk_
