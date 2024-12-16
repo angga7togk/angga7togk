@@ -1,10 +1,11 @@
 <p align="right">
+  <img src="https://raw.githubusercontent.com/angga7togk/angga7togk/refs/heads/main/toga-chibi.png" width="5%">
   <img src="https://raw.githubusercontent.com/angga7togk/PowerEssentials/refs/heads/main/img/indonesia.png" width="5%">
 </p>
 
 <p align="center">
   <a href="https://powernukkitx.com">
-    <img src="https://raw.githubusercontent.com/angga7togk/angga7togk/refs/heads/main/toga-chibi.png" width="25%">
+    <img src="https://github.com/angga7togk/angga7togk/blob/main/my-rounded.png?raw=true" width="25%">
   </a>
 </p>
 
